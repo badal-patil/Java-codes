@@ -1,4 +1,4 @@
-class ValPallindrome {
+class valPallindrome {
     public static boolean isPalindrome(String s) {
         // Convert to lowercase and remove non-alphanumeric characters
         String cleanString = s.toLowerCase().replaceAll("[^a-z0-9]", "");
