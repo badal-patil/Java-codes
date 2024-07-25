@@ -1,4 +1,4 @@
-class Rotateimage {
+class rotateImage {
     public void rotate(int[][] matrix) {
         int cols = matrix.length;
         int row = matrix[0].length;
