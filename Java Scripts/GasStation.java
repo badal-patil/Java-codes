@@ -1,4 +1,4 @@
-class GasStation {
+class gasStation {
     public int canCompleteCircuit(int[] gas, int[] cost) {
         // can traval if 4 - 1 + 5 - 2 + 1 - 3 + 2 - 4 + 3 - 5 >= 0
         // gas          (3)     (4)     (0)     (1)     (2)
