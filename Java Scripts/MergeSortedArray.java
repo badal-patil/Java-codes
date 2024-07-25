@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+class MergeSortedArray {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         mergeArrays(nums1, m, nums2, n);
 
