@@ -1,4 +1,4 @@
-class TrappingRainWater {
+class trappingRainWater {
     // Convert the problem to the problem of calculating area
     public int trap(int[] height) {
         int n = height.length;
