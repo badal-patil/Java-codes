@@ -1,4 +1,4 @@
-class ZigZagconv {
+class zigZagConv {
     public String convert(String s, int numRows) {
         if(numRows == 1 || s.isEmpty()) return s;
 
