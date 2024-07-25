@@ -1,4 +1,4 @@
-class Revwordsinstr {
+class revWordsInStr {
     public String reverseWords(String s) {
 
         // Removes spaces that appear at the beginning and end of the string.
